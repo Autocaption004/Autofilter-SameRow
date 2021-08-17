@@ -1602,7 +1602,7 @@ async def cb_about(bot, update: CallbackQuery):
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
     text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/wolfpackmedia">@wolfpackmedia </a>\n"""
-    text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/mhdthanzeer07/Autofilter-look">Source</a>"""
+    text+="""\n<b><i>Source Code:</i></b> <a href="https://telegra.ph/file/92827f3f0ab3f1acabc17.jpg">Source</a>"""
 
     buttons = [
         [
